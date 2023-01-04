@@ -1,4 +1,12 @@
-# rest-api-springboot-mvc
-Create a REST API with Spring Boot MVC, MongoDB and Swagger 2. CRUD in less than 10 min. !!
+# Despliegue de CRUD con MongoDB y Spring Boot
 
-Video-tutorial: https://www.youtube.com/watch?v=OtBukxJy4kg
+Segun requeria el ejercicio:
+
+* Clonamos el repositorio indicado: https://github.com/heroe-geek/rest-api-springboot-mvc
+* Modificamos el application.properties con una Base de datos propia
+* Creamos y configuramos una cuenta en https://railway.app/ (Utilizamos esta opcion ya que Heroku, ya no cuenta con version gratuita)
+* Subimos y desplegamos 
+
+URL del despliegue: https://crudadesplegar-production.up.railway.app/api/products/
+
+
